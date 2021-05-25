@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/episode-switcher/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/episode-switcher/static/js/main.19fa4232.chunk.js",
+    "main.js.map": "/episode-switcher/static/js/main.19fa4232.chunk.js.map",
+    "runtime-main.js": "/episode-switcher/static/js/runtime-main.f7d4cd2d.js",
+    "runtime-main.js.map": "/episode-switcher/static/js/runtime-main.f7d4cd2d.js.map",
+    "static/js/2.56927da6.chunk.js": "/episode-switcher/static/js/2.56927da6.chunk.js",
+    "static/js/2.56927da6.chunk.js.map": "/episode-switcher/static/js/2.56927da6.chunk.js.map",
+    "static/js/3.5ed9b75c.chunk.js": "/episode-switcher/static/js/3.5ed9b75c.chunk.js",
+    "static/js/3.5ed9b75c.chunk.js.map": "/episode-switcher/static/js/3.5ed9b75c.chunk.js.map",
+    "index.html": "/episode-switcher/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/episode-switcher/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.56927da6.chunk.js.LICENSE.txt": "/episode-switcher/static/js/2.56927da6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7d4cd2d.js",
+    "static/js/2.56927da6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.19fa4232.chunk.js"
+  ]
+}
